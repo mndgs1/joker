@@ -26,5 +26,8 @@
     "homepage": "https://github.com/mndgs1/joker#readme",
     "devDependencies": {
         "prettier": "^3.0.1"
+    },
+    "dependencies": {
+        "give-me-a-joke": "^0.5.0"
     }
 }
