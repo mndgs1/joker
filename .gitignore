@@ -1,2 +1,2 @@
 # npm folders to ignore
-/node_modules
+node_modules/
