@@ -1,0 +1,29 @@
+{
+    "name": "joker",
+    "version": "0.0.1",
+    "description": "Application that tells jokes",
+    "type": "module",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mndgs1/joker.git"
+    },
+    "keywords": [
+        "css",
+        "e-commerce",
+        "portfolio",
+        "webiste"
+    ],
+    "author": "Mindaugas Bankauskas <mindaugasbankauskas@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mndgs1/joker/issues"
+    },
+    "homepage": "https://github.com/mndgs1/joker#readme",
+    "dependencies": {
+        "one-liner-joke": "^1.2.2"
+    }
+}
