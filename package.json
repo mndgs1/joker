@@ -24,9 +24,6 @@
         "url": "https://github.com/mndgs1/joker/issues"
     },
     "homepage": "https://github.com/mndgs1/joker#readme",
-    "dependencies": {
-        "one-liner-joke": "^1.2.2"
-    },
     "devDependencies": {
         "prettier": "^3.0.1"
     }
