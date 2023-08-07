@@ -7,7 +7,8 @@
   "scripts": {
     "test": "node src/js/joker.test.js",
     "format": "prettier -w src/**/*.js",
-    "lint": "eslint src/**/*.js"
+    "lint": "eslint src/**/*.js",
+    "lint-fix": "eslint src/**/*.js --cache --fix"
   },
   "repository": {
     "type": "git",
