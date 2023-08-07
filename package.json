@@ -1,6 +1,6 @@
 {
   "name": "mndgs1-joker",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Application that tells jokes",
   "type": "module",
   "main": "src/index.js",
